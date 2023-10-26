@@ -33,4 +33,4 @@ This is my portfolio website, where I showcase my skills, projects, and contact 
 
 ## Getting Started
 1. Clone the repository:
-git clone https://github.com/yourusername/your-portfolio.git
+git clone https://github.com/farhan-gada/My_Portfolio
