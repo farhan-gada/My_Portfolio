@@ -13,7 +13,7 @@ This is my portfolio website, where I showcase my skills, projects, and contact 
 - [License](#license)
 
 
-Deployment
+## Deployment
 You can access the deployed Portfolio at the following link: https://farhan-gada.github.io/My_Portfolio/
 ## Features
 - Navigation bar with links to Projects, Skills, and Contact Me sections.
